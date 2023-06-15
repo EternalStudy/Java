@@ -1,3 +1,4 @@
+package Cеминар_1;
 public class Task_4 {
     public static void main(String[] args) {
         String str = "Добро пожаловать на курс по Java";
